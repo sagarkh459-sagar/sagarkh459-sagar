@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Sagar Khandelwal. I am currently learning for  Data engineer.<br>I am currently working on m skills that were Apache spark.<br>I am looking to collaborate more on data engineering projects<br>that help me to gain more knowledge about that field.<br>
+My name is Sagar Khandelwal. I am currently learning Data Analysis.<br>I am currently working on my skills that were SQL and Excel.<br>I am looking to collaborate more on data engineering/analysis projects<br>that help me to gain more knowledge about that field.<br>
 
 
 ## 🌐 Socials:
